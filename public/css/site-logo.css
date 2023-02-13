@@ -1,0 +1,15 @@
+.site_logo {
+    padding: 12px;
+    margin: auto;
+    background: #ededed;
+    color: black;
+    height: 24px;
+    width: 24px;
+    border-radius: 30px;
+    border-bottom: 4px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    font-family: Harrington;
+    text-shadow: 2px 1px 1px dimgray;
+    font-size: 28px;
+}
