@@ -1,0 +1,12 @@
+Admin
+email: ochanyaali2017@gmail.com
+password: queenie
+
+Staff
+email: staff@gmail.com
+password: staff
+
+Customer
+email: tartorkingdom@gmail.com
+password: kingdom
+
